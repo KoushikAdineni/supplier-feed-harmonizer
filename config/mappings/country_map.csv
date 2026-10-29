@@ -1,0 +1,39 @@
+source_country,country_code_iso2,country_name
+US,US,United States
+USA,US,United States
+United States,US,United States
+United States of America,US,United States
+DE,DE,Germany
+Germany,DE,Germany
+Deutschland,DE,Germany
+CN,CN,China
+China,CN,China
+JP,JP,Japan
+Japan,JP,Japan
+GB,GB,United Kingdom
+UK,GB,United Kingdom
+United Kingdom,GB,United Kingdom
+Great Britain,GB,United Kingdom
+Großbritannien,GB,United Kingdom
+Grossbritannien,GB,United Kingdom
+CA,CA,Canada
+Canada,CA,Canada
+FR,FR,France
+France,FR,France
+Frankreich,FR,France
+IT,IT,Italy
+Italy,IT,Italy
+Italien,IT,Italy
+ES,ES,Spain
+Spain,ES,Spain
+Spanien,ES,Spain
+MX,MX,Mexico
+Mexico,MX,Mexico
+Mexiko,MX,Mexico
+KR,KR,South Korea
+South Korea,KR,South Korea
+Korea,KR,South Korea
+TW,TW,Taiwan
+Taiwan,TW,Taiwan
+VN,VN,Vietnam
+Vietnam,VN,Vietnam

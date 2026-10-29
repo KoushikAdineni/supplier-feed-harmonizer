@@ -1,0 +1,2 @@
+"""Supplier Feed Harmonizer module."""
+__version__ = "1.0.0"

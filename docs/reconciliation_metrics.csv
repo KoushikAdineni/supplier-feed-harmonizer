@@ -1,0 +1,20 @@
+metric_group,metric_name,metric_value,status,notes
+Conservation,rows_read,315,INFO,Raw rows read from input
+Conservation,rows_valid,289,INFO,Rows passing validation
+Conservation,rows_rejected,23,INFO,Rows failing validation
+Conservation,rows_duplicate,3,INFO,Exact duplicate rows
+Conservation,conservation_assertion,315,PASS,Read == Valid + Rej + Dup
+EntityResolution,total_golden_products,52,INFO,Golden product count
+EntityResolution,distinct_gtins,45,INFO,Distinct barcodes
+EntityResolution,high_confidence_matches,45,INFO,GTIN matches
+EntityResolution,low_confidence_matches,7,INFO,Fallback matches
+Integrity,duplicate_product_ids,0,PASS,Duplicate golden keys
+Integrity,orphan_lineage_rows,0,PASS,Lineage without golden parent
+Integrity,unmapped_category_ids,0,PASS,Golden category FK integrity
+Rejections,REF_KEY_INVALID,16,INFO,Category code 'INVALID-CAT-999' not found in category_map
+Rejections,MALFORMED_RECORD,2,INFO,Expected 10 columns but found 4
+Rejections,BAD_GTIN,1,INFO,Invalid GTIN-13 checksum or format: '3482477109325'
+Rejections,BAD_DATE,1,INFO,Invalid date/time format: 'not-a-valid-date-32/13/2026'
+Rejections,BAD_NUMERIC,1,INFO,Non-numeric price value: 'INVALID_PRICE_ABC'
+Rejections,NEGATIVE_PRICE,1,INFO,"Price must be strictly positive (> 0), got: -19.99"
+Rejections,MISSING_REQUIRED,1,INFO,Required field 'product_name' is empty

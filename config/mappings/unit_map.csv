@@ -1,0 +1,14 @@
+source_unit,standard_unit,conversion_factor_to_kg
+lb,kg,0.45359237
+lbs,kg,0.45359237
+pound,kg,0.45359237
+pounds,kg,0.45359237
+kg,kg,1.0
+kilogram,kg,1.0
+kilograms,kg,1.0
+g,kg,0.001
+gram,kg,0.001
+grams,kg,0.001
+oz,kg,0.028349523125
+ounce,kg,0.028349523125
+ounces,kg,0.028349523125

@@ -1,0 +1,8 @@
+source_currency,target_currency,exchange_rate_to_usd
+USD,USD,1.0000
+EUR,USD,1.0800
+GBP,USD,1.2700
+CAD,USD,0.7300
+JPY,USD,0.0065
+CHF,USD,1.1200
+AUD,USD,0.6500

@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "target_rows": 300,
+    "seed": 42,
+    "generated_at": "2026-10-29T18:45:52.325446+00:00"
+  },
+  "intentional_invalid_records": [
+    {
+      "file": "supplier_a_feed.csv",
+      "row_number": 105,
+      "sku": "SKU-A-ERR-NEGPRICE",
+      "error_code": "NEGATIVE_PRICE",
+      "reason": "Price is negative (-19.99)"
+    },
+    {
+      "file": "supplier_a_feed.csv",
+      "row_number": 106,
+      "sku": "SKU-A-ERR-BADGTIN",
+      "error_code": "BAD_GTIN",
+      "reason": "GTIN checksum mismatch (3482477109325)"
+    },
+    {
+      "file": "supplier_a_feed.csv",
+      "row_number": 107,
+      "sku": "SKU-A-ERR-BADCATEGORY",
+      "error_code": "REF_KEY_INVALID",
+      "reason": "Category code 'INVALID-CAT-999' not in category_map.csv"
+    },
+    {
+      "file": "supplier_a_feed.csv",
+      "row_number": 108,
+      "sku": "SKU-A-ERR-MISSINGNAME",
+      "error_code": "MISSING_REQUIRED",
+      "reason": "Required field product_name is empty"
+    },
+    {
+      "file": "supplier_a_feed.csv",
+      "row_number": 109,
+      "sku": "SKU-A-ERR-BADDATE",
+      "error_code": "BAD_DATE",
+      "reason": "Date string is unparseable"
+    },
+    {
+      "file": "supplier_a_feed.csv",
+      "row_number": 110,
+      "sku": "SKU-A-ERR-WRONGCOL",
+      "error_code": "MALFORMED_RECORD",
+      "reason": "Wrong column count in CSV line"
+    },
+    {
+      "file": "supplier_b_feed.jsonl",
+      "row_number": 101,
+      "sku": "ITEM-B-ERR-BROKENJSON",
+      "error_code": "MALFORMED_RECORD",
+      "reason": "Malformed JSON syntax"
+    },
+    {
+      "file": "supplier_b_feed.jsonl",
+      "row_number": 102,
+      "sku": "ITEM-B-ERR-NONNUMPRICE",
+      "error_code": "BAD_NUMERIC",
+      "reason": "Non-numeric unit_price.amount string"
+    },
+    {
+      "file": "supplier_b_feed.jsonl",
+      "row_number": 103,
+      "sku": "ITEM-B-ERR-BADCOUNTRY",
+      "error_code": "REF_KEY_INVALID",
+      "reason": "Origin country 'Atlantis Kingdom' not in country_map.csv"
+    }
+  ],
+  "intentional_duplicates": [
+    {
+      "file": "supplier_a_feed.csv",
+      "sku": "SKU-A-00000",
+      "description": "Exact duplicate row in Supplier A"
+    }
+  ],
+  "expected_golden_products_count": 52,
+  "files_summary": {
+    "supplier_a_feed.csv": {
+      "total_lines": 110
+    },
+    "supplier_b_feed.jsonl": {
+      "total_lines": 103
+    },
+    "supplier_c_feed.csv": {
+      "total_lines": 101
+    },
+    "supplier_a_late_arriving.csv": {
+      "total_lines": 4
+    },
+    "supplier_a_invalid_schema.csv": {
+      "total_lines": 2,
+      "quarantine_expected": true
+    },
+    "supplier_a_empty.csv": {
+      "total_bytes": 0,
+      "status_expected": "success_empty"
+    },
+    "supplier_a_header_only.csv": {
+      "total_lines": 1,
+      "status_expected": "success_empty"
+    }
+  },
+  "unique_gtin_count": 45,
+  "unique_brand_name_fallback_count": 7
+}

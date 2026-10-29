@@ -1,0 +1,4 @@
+sku,product_name,cat_code,price,weight_lb,color_code,updated_at,stock_qty,country,gtin
+SKU-A-00000,TechCorp Wireless Noise Cancelling Headphones,EL-03,999.00,0.73,BLK,2025-12-17T12:00:00+00:00,999,US,
+SKU-A-00001,UltraSound Bluetooth Portable Speaker,EL-03,999.00,1.43,BLU,2025-12-17T12:00:00+00:00,999,DE,4332181960016
+SKU-A-00002,SmartLife Pro Smartphone 128GB,EL-02,999.00,0.38,SLV,2025-12-17T12:00:00+00:00,999,CN,0838637940266

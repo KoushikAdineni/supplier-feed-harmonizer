@@ -1,0 +1,27 @@
+pipeline:
+  name: "supplier-feed-harmonizer"
+  version: "1.0.0"
+  db_path: "output/harmonizer.duckdb"
+  input_dir: "sample_data/input"
+  mappings_dir: "config/mappings"
+  suppliers_dir: "config/suppliers"
+  output_dir: "output"
+  log_dir: "logs"
+
+logging:
+  level: "INFO"
+  format: "json"
+
+conflict_resolution:
+  # Attribute conflict resolution strategies
+  price_usd: "latest_source_updated_at"
+  stock_qty: "latest_source_updated_at"
+  name_std: "supplier_priority"
+  category_id: "supplier_priority"
+  color_id: "supplier_priority"
+  country_code: "supplier_priority"
+  weight_kg: "majority_vote_then_priority"
+
+entity_resolution:
+  gtin_match_confidence: "high"
+  brand_name_match_confidence: "low"

@@ -1,0 +1,101 @@
+art_nr;bezeichnung;warengruppe;preis_eur;gewicht_kg;farbe;stand;lager;herkunft;gtin
+ART-C-00000;TechCorp Wireless Noise Cancelling Headphones Sonderedition;103;190,34;0,333;Schwarz;30.12.2025;64;Vereinigte Staaten;
+ART-C-00001;UltraSound Bluetooth Portable Speaker Sonderedition;103;69,47;0,650;Blau;31.12.2025;122;Deutschland;4332181960016
+ART-C-00002;SmartLife Pro Smartphone 128GB Sonderedition;102;626,55;0,174;Silber;01.01.2026;29;China;0838637940266
+ART-C-00003;PixelGear 4K Ultra HD Action Camera Sonderedition;101;214,10;0,156;Schwarz;02.01.2026;16;Japan;5116155940780
+ART-C-00004;ChefMaster Stainless Steel Kitchen Knife Set Sonderedition;201;89,20;1,244;Silber;03.01.2026;102;Deutschland;1849593103410
+ART-C-00005;HomeComfort Electric Smart Kettle 1.7L Sonderedition;202;41,95;0,926;Weiß;04.01.2026;125;Frankreich;6475255341927
+ART-C-00006;ErgoOffice Ergonomic Mesh Swivel Chair Sonderedition;301;152,20;11,975;Grau;05.01.2026;18;USA;7648350305647
+ART-C-00007;PeakTrek Lightweight Camping Tent 2-Person Sonderedition;401;114,65;2,420;Grün;06.01.2026;147;Canada;9537672423888
+ART-C-00008;TechCorp Wireless Noise Cancelling Headphones Model-9 Sonderedition;103;199,91;0,346;Schwarz;07.01.2026;13;Vereinigte Staaten;
+ART-C-00009;UltraSound Bluetooth Portable Speaker Model-10 Sonderedition;103;71,92;0,656;Blau;08.01.2026;38;Deutschland;3287101226912
+ART-C-00010;SmartLife Pro Smartphone 128GB Model-11 Sonderedition;102;602,97;0,171;Silber;09.01.2026;38;China;7848018451468
+ART-C-00011;PixelGear 4K Ultra HD Action Camera Model-12 Sonderedition;101;233,30;0,154;Schwarz;10.01.2026;144;Japan;4828148932528
+ART-C-00012;ChefMaster Stainless Steel Kitchen Knife Set Model-13 Sonderedition;201;89,58;1,254;Silber;11.01.2026;77;Deutschland;8095701543033
+ART-C-00013;HomeComfort Electric Smart Kettle 1.7L Model-14 Sonderedition;202;41,03;0,923;Weiß;12.01.2026;21;Frankreich;1718227824895
+ART-C-00014;ErgoOffice Ergonomic Mesh Swivel Chair Model-15 Sonderedition;301;161,27;11,602;Grau;13.01.2026;63;USA;8346578713310
+ART-C-00015;PeakTrek Lightweight Camping Tent 2-Person Model-16 Sonderedition;401;114,06;2,441;Grün;14.01.2026;30;Canada;3930103105180
+ART-C-00016;TechCorp Wireless Noise Cancelling Headphones Model-17 Sonderedition;103;174,59;0,337;Schwarz;15.01.2026;142;Vereinigte Staaten;
+ART-C-00017;UltraSound Bluetooth Portable Speaker Model-18 Sonderedition;103;72,31;0,674;Blau;16.01.2026;106;Deutschland;9973763116565
+ART-C-00018;SmartLife Pro Smartphone 128GB Model-19 Sonderedition;102;637,11;0,176;Silber;17.01.2026;57;China;0106513338729
+ART-C-00019;PixelGear 4K Ultra HD Action Camera Model-20 Sonderedition;101;230,81;0,146;Schwarz;18.01.2026;133;Japan;3178108013264
+ART-C-00020;ChefMaster Stainless Steel Kitchen Knife Set Model-21 Sonderedition;201;77,54;1,176;Silber;19.01.2026;97;Deutschland;6026064746870
+ART-C-00021;HomeComfort Electric Smart Kettle 1.7L Model-22 Sonderedition;202;37,97;0,951;Weiß;20.01.2026;115;Frankreich;0980500978828
+ART-C-00022;ErgoOffice Ergonomic Mesh Swivel Chair Model-23 Sonderedition;301;170,65;11,407;Grau;21.01.2026;113;USA;2191361939905
+ART-C-00023;PeakTrek Lightweight Camping Tent 2-Person Model-24 Sonderedition;401;119,33;2,503;Grün;22.01.2026;76;Canada;9985435346248
+ART-C-00024;TechCorp Wireless Noise Cancelling Headphones Model-25 Sonderedition;103;201,31;0,333;Schwarz;23.01.2026;150;Vereinigte Staaten;
+ART-C-00025;UltraSound Bluetooth Portable Speaker Model-26 Sonderedition;103;71,69;0,628;Blau;24.01.2026;109;Deutschland;9911838425136
+ART-C-00026;SmartLife Pro Smartphone 128GB Model-27 Sonderedition;102;678,60;0,174;Silber;25.01.2026;78;China;8498084124118
+ART-C-00027;PixelGear 4K Ultra HD Action Camera Model-28 Sonderedition;101;246,72;0,143;Schwarz;26.01.2026;145;Japan;4935348740164
+ART-C-00028;ChefMaster Stainless Steel Kitchen Knife Set Model-29 Sonderedition;201;84,05;1,240;Silber;27.01.2026;15;Deutschland;5242786801128
+ART-C-00029;HomeComfort Electric Smart Kettle 1.7L Model-30 Sonderedition;202;43,06;0,936;Weiß;28.01.2026;25;Frankreich;9826204505339
+ART-C-00030;ErgoOffice Ergonomic Mesh Swivel Chair Model-31 Sonderedition;301;176,74;11,919;Grau;30.12.2025;53;USA;8692322602561
+ART-C-00031;PeakTrek Lightweight Camping Tent 2-Person Model-32 Sonderedition;401;128,07;2,489;Grün;31.12.2025;54;Canada;3421607337547
+ART-C-00032;TechCorp Wireless Noise Cancelling Headphones Model-33 Sonderedition;103;174,92;0,356;Schwarz;01.01.2026;67;Vereinigte Staaten;
+ART-C-00033;UltraSound Bluetooth Portable Speaker Model-34 Sonderedition;103;79,16;0,634;Blau;02.01.2026;20;Deutschland;6541458685011
+ART-C-00034;SmartLife Pro Smartphone 128GB Model-35 Sonderedition;102;632,36;0,181;Silber;03.01.2026;40;China;9401965569815
+ART-C-00035;PixelGear 4K Ultra HD Action Camera Model-36 Sonderedition;101;222,86;0,155;Schwarz;04.01.2026;61;Japan;4060883561599
+ART-C-00036;ChefMaster Stainless Steel Kitchen Knife Set Model-37 Sonderedition;201;86,24;1,248;Silber;05.01.2026;44;Deutschland;4846564823664
+ART-C-00037;HomeComfort Electric Smart Kettle 1.7L Model-38 Sonderedition;202;42,95;0,947;Weiß;06.01.2026;141;Frankreich;9946804436991
+ART-C-00038;ErgoOffice Ergonomic Mesh Swivel Chair Model-39 Sonderedition;301;172,43;11,183;Grau;07.01.2026;19;USA;7387214895138
+ART-C-00039;PeakTrek Lightweight Camping Tent 2-Person Model-40 Sonderedition;401;125,62;2,372;Grün;08.01.2026;40;Canada;3200379176932
+ART-C-00040;TechCorp Wireless Noise Cancelling Headphones Model-41 Sonderedition;103;181,46;0,338;Schwarz;09.01.2026;0;Vereinigte Staaten;
+ART-C-00041;UltraSound Bluetooth Portable Speaker Model-42 Sonderedition;103;68,21;0,648;Blau;10.01.2026;104;Deutschland;0163287083170
+ART-C-00042;SmartLife Pro Smartphone 128GB Model-43 Sonderedition;102;640,76;0,185;Silber;11.01.2026;115;China;8895798687272
+ART-C-00043;PixelGear 4K Ultra HD Action Camera Model-44 Sonderedition;101;249,67;0,144;Schwarz;12.01.2026;120;Japan;4873471434553
+ART-C-00044;ChefMaster Stainless Steel Kitchen Knife Set Model-45 Sonderedition;201;76,00;1,240;Silber;13.01.2026;74;Deutschland;2362316658763
+ART-C-00045;HomeComfort Electric Smart Kettle 1.7L Model-46 Sonderedition;202;43,73;0,954;Weiß;14.01.2026;8;Frankreich;6909670546686
+ART-C-00046;ErgoOffice Ergonomic Mesh Swivel Chair Model-47 Sonderedition;301;178,02;11,982;Grau;15.01.2026;59;USA;9373467065624
+ART-C-00047;PeakTrek Lightweight Camping Tent 2-Person Model-48 Sonderedition;401;109,54;2,371;Grün;16.01.2026;73;Canada;9806990162725
+ART-C-00048;TechCorp Wireless Noise Cancelling Headphones Model-49 Sonderedition;103;174,50;0,344;Schwarz;17.01.2026;72;Vereinigte Staaten;
+ART-C-00049;UltraSound Bluetooth Portable Speaker Model-50 Sonderedition;103;77,75;0,660;Blau;18.01.2026;116;Deutschland;6464170805317
+ART-C-00000;TechCorp Wireless Noise Cancelling Headphones Sonderedition;103;190,34;0,333;Schwarz;19.01.2026;18;Vereinigte Staaten;
+ART-C-00001;UltraSound Bluetooth Portable Speaker Sonderedition;103;69,47;0,650;Blau;20.01.2026;59;Deutschland;4332181960016
+ART-C-00002;SmartLife Pro Smartphone 128GB Sonderedition;102;626,55;0,174;Silber;21.01.2026;67;China;0838637940266
+ART-C-00003;PixelGear 4K Ultra HD Action Camera Sonderedition;101;214,10;0,156;Schwarz;22.01.2026;150;Japan;5116155940780
+ART-C-00004;ChefMaster Stainless Steel Kitchen Knife Set Sonderedition;201;89,20;1,244;Silber;23.01.2026;50;Deutschland;1849593103410
+ART-C-00005;HomeComfort Electric Smart Kettle 1.7L Sonderedition;202;41,95;0,926;Weiß;24.01.2026;108;Frankreich;6475255341927
+ART-C-00006;ErgoOffice Ergonomic Mesh Swivel Chair Sonderedition;301;152,20;11,975;Grau;25.01.2026;29;USA;7648350305647
+ART-C-00007;PeakTrek Lightweight Camping Tent 2-Person Sonderedition;401;114,65;2,420;Grün;26.01.2026;139;Canada;9537672423888
+ART-C-00008;TechCorp Wireless Noise Cancelling Headphones Model-9 Sonderedition;103;199,91;0,346;Schwarz;27.01.2026;57;Vereinigte Staaten;
+ART-C-00009;UltraSound Bluetooth Portable Speaker Model-10 Sonderedition;103;71,92;0,656;Blau;28.01.2026;38;Deutschland;3287101226912
+ART-C-00010;SmartLife Pro Smartphone 128GB Model-11 Sonderedition;102;602,97;0,171;Silber;30.12.2025;68;China;7848018451468
+ART-C-00011;PixelGear 4K Ultra HD Action Camera Model-12 Sonderedition;101;233,30;0,154;Schwarz;31.12.2025;36;Japan;4828148932528
+ART-C-00012;ChefMaster Stainless Steel Kitchen Knife Set Model-13 Sonderedition;201;89,58;1,254;Silber;01.01.2026;18;Deutschland;8095701543033
+ART-C-00013;HomeComfort Electric Smart Kettle 1.7L Model-14 Sonderedition;202;41,03;0,923;Weiß;02.01.2026;15;Frankreich;1718227824895
+ART-C-00014;ErgoOffice Ergonomic Mesh Swivel Chair Model-15 Sonderedition;301;161,27;11,602;Grau;03.01.2026;42;USA;8346578713310
+ART-C-00015;PeakTrek Lightweight Camping Tent 2-Person Model-16 Sonderedition;401;114,06;2,441;Grün;04.01.2026;78;Canada;3930103105180
+ART-C-00016;TechCorp Wireless Noise Cancelling Headphones Model-17 Sonderedition;103;174,59;0,337;Schwarz;05.01.2026;145;Vereinigte Staaten;
+ART-C-00017;UltraSound Bluetooth Portable Speaker Model-18 Sonderedition;103;72,31;0,674;Blau;06.01.2026;73;Deutschland;9973763116565
+ART-C-00018;SmartLife Pro Smartphone 128GB Model-19 Sonderedition;102;637,11;0,176;Silber;07.01.2026;112;China;0106513338729
+ART-C-00019;PixelGear 4K Ultra HD Action Camera Model-20 Sonderedition;101;230,81;0,146;Schwarz;08.01.2026;31;Japan;3178108013264
+ART-C-00020;ChefMaster Stainless Steel Kitchen Knife Set Model-21 Sonderedition;201;77,54;1,176;Silber;09.01.2026;119;Deutschland;6026064746870
+ART-C-00021;HomeComfort Electric Smart Kettle 1.7L Model-22 Sonderedition;202;37,97;0,951;Weiß;10.01.2026;77;Frankreich;0980500978828
+ART-C-00022;ErgoOffice Ergonomic Mesh Swivel Chair Model-23 Sonderedition;301;170,65;11,407;Grau;11.01.2026;103;USA;2191361939905
+ART-C-00023;PeakTrek Lightweight Camping Tent 2-Person Model-24 Sonderedition;401;119,33;2,503;Grün;12.01.2026;69;Canada;9985435346248
+ART-C-00024;TechCorp Wireless Noise Cancelling Headphones Model-25 Sonderedition;103;201,31;0,333;Schwarz;13.01.2026;128;Vereinigte Staaten;
+ART-C-00025;UltraSound Bluetooth Portable Speaker Model-26 Sonderedition;103;71,69;0,628;Blau;14.01.2026;138;Deutschland;9911838425136
+ART-C-00026;SmartLife Pro Smartphone 128GB Model-27 Sonderedition;102;678,60;0,174;Silber;15.01.2026;126;China;8498084124118
+ART-C-00027;PixelGear 4K Ultra HD Action Camera Model-28 Sonderedition;101;246,72;0,143;Schwarz;16.01.2026;112;Japan;4935348740164
+ART-C-00028;ChefMaster Stainless Steel Kitchen Knife Set Model-29 Sonderedition;201;84,05;1,240;Silber;17.01.2026;20;Deutschland;5242786801128
+ART-C-00029;HomeComfort Electric Smart Kettle 1.7L Model-30 Sonderedition;202;43,06;0,936;Weiß;18.01.2026;10;Frankreich;9826204505339
+ART-C-00030;ErgoOffice Ergonomic Mesh Swivel Chair Model-31 Sonderedition;301;176,74;11,919;Grau;19.01.2026;110;USA;8692322602561
+ART-C-00031;PeakTrek Lightweight Camping Tent 2-Person Model-32 Sonderedition;401;128,07;2,489;Grün;20.01.2026;82;Canada;3421607337547
+ART-C-00032;TechCorp Wireless Noise Cancelling Headphones Model-33 Sonderedition;103;174,92;0,356;Schwarz;21.01.2026;64;Vereinigte Staaten;
+ART-C-00033;UltraSound Bluetooth Portable Speaker Model-34 Sonderedition;103;79,16;0,634;Blau;22.01.2026;6;Deutschland;6541458685011
+ART-C-00034;SmartLife Pro Smartphone 128GB Model-35 Sonderedition;102;632,36;0,181;Silber;23.01.2026;23;China;9401965569815
+ART-C-00035;PixelGear 4K Ultra HD Action Camera Model-36 Sonderedition;101;222,86;0,155;Schwarz;24.01.2026;58;Japan;4060883561599
+ART-C-00036;ChefMaster Stainless Steel Kitchen Knife Set Model-37 Sonderedition;201;86,24;1,248;Silber;25.01.2026;147;Deutschland;4846564823664
+ART-C-00037;HomeComfort Electric Smart Kettle 1.7L Model-38 Sonderedition;202;42,95;0,947;Weiß;26.01.2026;150;Frankreich;9946804436991
+ART-C-00038;ErgoOffice Ergonomic Mesh Swivel Chair Model-39 Sonderedition;301;172,43;11,183;Grau;27.01.2026;5;USA;7387214895138
+ART-C-00039;PeakTrek Lightweight Camping Tent 2-Person Model-40 Sonderedition;401;125,62;2,372;Grün;28.01.2026;68;Canada;3200379176932
+ART-C-00040;TechCorp Wireless Noise Cancelling Headphones Model-41 Sonderedition;103;181,46;0,338;Schwarz;30.12.2025;147;Vereinigte Staaten;
+ART-C-00041;UltraSound Bluetooth Portable Speaker Model-42 Sonderedition;103;68,21;0,648;Blau;31.12.2025;10;Deutschland;0163287083170
+ART-C-00042;SmartLife Pro Smartphone 128GB Model-43 Sonderedition;102;640,76;0,185;Silber;01.01.2026;44;China;8895798687272
+ART-C-00043;PixelGear 4K Ultra HD Action Camera Model-44 Sonderedition;101;249,67;0,144;Schwarz;02.01.2026;120;Japan;4873471434553
+ART-C-00044;ChefMaster Stainless Steel Kitchen Knife Set Model-45 Sonderedition;201;76,00;1,240;Silber;03.01.2026;132;Deutschland;2362316658763
+ART-C-00045;HomeComfort Electric Smart Kettle 1.7L Model-46 Sonderedition;202;43,73;0,954;Weiß;04.01.2026;113;Frankreich;6909670546686
+ART-C-00046;ErgoOffice Ergonomic Mesh Swivel Chair Model-47 Sonderedition;301;178,02;11,982;Grau;05.01.2026;71;USA;9373467065624
+ART-C-00047;PeakTrek Lightweight Camping Tent 2-Person Model-48 Sonderedition;401;109,54;2,371;Grün;06.01.2026;46;Canada;9806990162725
+ART-C-00048;TechCorp Wireless Noise Cancelling Headphones Model-49 Sonderedition;103;174,50;0,344;Schwarz;07.01.2026;149;Vereinigte Staaten;
+ART-C-00049;UltraSound Bluetooth Portable Speaker Model-50 Sonderedition;103;77,75;0,660;Blau;08.01.2026;111;Deutschland;6464170805317

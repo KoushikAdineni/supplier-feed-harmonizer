@@ -1,0 +1,22 @@
+source_category,category_id,category_name
+EL-01,CAT_ELECTRONICS,Electronics
+EL-02,CAT_PHONES,Phones & Accessories
+EL-03,CAT_AUDIO,Audio Equipment
+Electronics,CAT_ELECTRONICS,Electronics
+Electronics > Phones,CAT_PHONES,Phones & Accessories
+Electronics > Audio,CAT_AUDIO,Audio Equipment
+101,CAT_ELECTRONICS,Electronics
+102,CAT_PHONES,Phones & Accessories
+103,CAT_AUDIO,Audio Equipment
+HOME-01,CAT_HOME,Home & Kitchen
+HOME-02,CAT_APPLIANCES,Home Appliances
+Home > Kitchen,CAT_HOME,Home & Kitchen
+Home > Appliances,CAT_APPLIANCES,Home Appliances
+201,CAT_HOME,Home & Kitchen
+202,CAT_APPLIANCES,Home Appliances
+OFFICE-01,CAT_OFFICE,Office Supplies
+Office > Supplies,CAT_OFFICE,Office Supplies
+301,CAT_OFFICE,Office Supplies
+OUTDOOR-01,CAT_OUTDOORS,Sports & Outdoors
+Sports > Outdoors,CAT_OUTDOORS,Sports & Outdoors
+401,CAT_OUTDOORS,Sports & Outdoors

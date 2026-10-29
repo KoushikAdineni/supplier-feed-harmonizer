@@ -1,0 +1,64 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.0, pytest-9.2.0, pluggy-1.7.0 -- C:\Users\koush\OneDrive\Desktop\supplier-feed-harmonizer\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\koush\OneDrive\Desktop\supplier-feed-harmonizer
+configfile: pytest.ini
+plugins: cov-7.1.0
+collecting ... collected 34 items
+
+tests/test_conflict_resolution.py::test_conflict_rule_a_latest_timestamp_wins_price_and_stock PASSED [  2%]
+tests/test_conflict_resolution.py::test_conflict_rule_b_priority_wins_for_name_category_color_country PASSED [  5%]
+tests/test_conflict_resolution.py::test_conflict_rule_c_majority_weight_and_tie_breaking PASSED [  8%]
+tests/test_conflict_resolution.py::test_conflict_rule_d_null_never_overrides_non_null PASSED [ 11%]
+tests/test_conflict_resolution.py::test_complete_attribute_lineage_recorded PASSED [ 14%]
+tests/test_ids.py::test_gtin13_validation PASSED                         [ 17%]
+tests/test_ids.py::test_deterministic_product_id PASSED                  [ 20%]
+tests/test_ids.py::test_deterministic_supplier_product_key PASSED        [ 23%]
+tests/test_ids.py::test_deterministic_record_hash PASSED                 [ 26%]
+tests/test_ids.py::test_reject_id_traceability PASSED                    [ 29%]
+tests/test_ids.py::test_run_id_format PASSED                             [ 32%]
+tests/test_pipeline_e2e.py::test_empty_input_directory PASSED            [ 35%]
+tests/test_pipeline_e2e.py::test_happy_path_and_ground_truth_reconciliation PASSED [ 38%]
+tests/test_pipeline_e2e.py::test_idempotent_rerun PASSED                 [ 41%]
+tests/test_pipeline_e2e.py::test_modified_file_with_same_name_processed_as_new PASSED [ 44%]
+tests/test_pipeline_e2e.py::test_out_of_order_and_late_arriving_versions PASSED [ 47%]
+tests/test_pipeline_e2e.py::test_partial_failure_rollback_and_retry PASSED [ 50%]
+tests/test_transforms_and_units.py::test_decimal_comma_numeric_parsing PASSED [ 52%]
+tests/test_transforms_and_units.py::test_unit_conversion_lb_to_kg PASSED [ 55%]
+tests/test_transforms_and_units.py::test_unit_conversion_edge_weight_zero PASSED [ 58%]
+tests/test_transforms_and_units.py::test_currency_conversion_eur_to_usd PASSED [ 61%]
+tests/test_transforms_and_units.py::test_deduplication_exact_vs_versions PASSED [ 64%]
+tests/test_validation_and_schema.py::test_schema_check_empty_file PASSED [ 67%]
+tests/test_validation_and_schema.py::test_schema_check_header_only PASSED [ 70%]
+tests/test_validation_and_schema.py::test_schema_check_missing_or_renamed_column PASSED [ 73%]
+tests/test_validation_and_schema.py::test_schema_check_extra_column_allowed PASSED [ 76%]
+tests/test_validation_and_schema.py::test_ingest_malformed_csv_row_count PASSED [ 79%]
+tests/test_validation_and_schema.py::test_ingest_malformed_json_lines PASSED [ 82%]
+tests/test_validation_and_schema.py::test_validate_missing_required_fields PASSED [ 85%]
+tests/test_validation_and_schema.py::test_validate_negative_and_zero_price PASSED [ 88%]
+tests/test_validation_and_schema.py::test_validate_weight_zero_is_valid PASSED [ 91%]
+tests/test_validation_and_schema.py::test_validate_bad_gtin PASSED       [ 94%]
+tests/test_validation_and_schema.py::test_validate_bad_date PASSED       [ 97%]
+tests/test_validation_and_schema.py::test_validate_ref_key_invalid PASSED [100%]
+
+=============================== tests coverage ================================
+_______________ coverage: platform win32, python 3.13.0-final-0 _______________
+
+Name                              Stmts   Miss  Cover   Missing
+---------------------------------------------------------------
+src\harmonizer\__init__.py            1      0   100%
+src\harmonizer\cli.py               184     60    67%   51, 76-78, 92-101, 127-128, 131-132, 161, 166-170, 196-197, 215-219, 256-257, 295-347, 351
+src\harmonizer\config.py            103      0   100%
+src\harmonizer\ids.py                55      1    98%   24
+src\harmonizer\ingest.py             69      9    87%   29, 59-60, 100-103, 111, 116
+src\harmonizer\logging_setup.py      43      1    98%   40
+src\harmonizer\publish.py            72      2    97%   303, 359
+src\harmonizer\report.py            152      1    99%   198
+src\harmonizer\resolve.py           101      1    99%   216
+src\harmonizer\runlog.py             26      0   100%
+src\harmonizer\schema_check.py      101     22    78%   70-72, 85-88, 132, 155, 163-168, 177, 188, 202-205, 217, 231
+src\harmonizer\transform.py          59      1    98%   20
+src\harmonizer\validate.py          123     25    80%   20, 23, 38, 41, 47-48, 55-56, 64, 145-157, 214-226, 231-243, 248-260, 284-287
+---------------------------------------------------------------
+TOTAL                              1089    123    89%
+============================= 34 passed in 4.69s ==============================

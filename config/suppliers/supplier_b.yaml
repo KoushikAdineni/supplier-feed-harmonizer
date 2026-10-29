@@ -1,0 +1,33 @@
+supplier_id: "SUP-B"
+supplier_name: "Supplier Beta"
+priority_rank: 2
+trust_weight: 0.85
+file_pattern: "*supplier_b*.jsonl"
+format: "jsonl"
+encoding: "utf-8"
+required_columns:
+  - "item_id"
+  - "title"
+  - "category"
+  - "unit_price"
+  - "weight"
+  - "colour"
+  - "last_modified"
+  - "available"
+  - "origin_country"
+optional_columns:
+  - "gtin"
+column_mapping:
+  item_id: "supplier_sku"
+  title: "name_raw"
+  category: "category_code_raw"
+  unit_price.amount: "price_raw"
+  unit_price.currency: "currency_raw"
+  weight.value: "weight_raw"
+  weight.unit: "weight_unit_raw"
+  colour: "color_code_raw"
+  last_modified: "updated_at_raw"
+  available: "stock_qty_raw"
+  origin_country: "country_raw"
+  gtin: "gtin_raw"
+date_format: "epoch_seconds"
